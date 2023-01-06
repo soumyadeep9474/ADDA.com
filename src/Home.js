@@ -29,8 +29,8 @@ const Home = () => {
                 <div className="relative z=10 px-6 md:max-w-[90vw] mx-auto flex flex-col justify-start items-center h-full pt-36">
                     {/*Mian */}
                     <div className="pb-8 ">
-                        <h1 className="text-[54px] text-white font-bold">ADDA</h1>
-                        <p className="text-[26px] text-white -mt-2 font ">with Homies</p>
+                        <h1 className="text-[56px] text-white font-bold">ADDA </h1>
+                        <p className="text-[28px] text-white -mt-2 font ">with Homies</p>
                     </div>
                     {/*Enter Code */}
                     <form
