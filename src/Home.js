@@ -19,12 +19,12 @@ const Home= () => {
             {/*Navbar*/ }
             <Navbar />
             {/*Hero */}
-            <div className="relative h-screen">
+            <div className="relative h-[90vh]">
                 {/*Image */}
-                <div className="absolute h-screen w-full flex overflow-hidden">
+                <div className="absolute h-[90vh] w-full flex overflow-hidden">
                     <img src={conf} className="object-cover w-full h-full"/>
                 </div>
-                <div className="absolute h-screen w-full flex overflow-hidden bg-black/40"></div>
+                <div className="absolute h-[90vh] w-full flex overflow-hidden bg-black/40"></div>
                 {/*Hero info */}
                 <div className="relative z=10 px-6 md:max-w-[90vw] mx-auto">
                     {/*Mian */}
